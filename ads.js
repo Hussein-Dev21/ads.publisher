@@ -4,6 +4,6 @@ $(document).ready(function () {
 
   setInterval( function() {
     $("#ads.checktatoo").load(location.href + " #ads.checktatoo");
-  }, 120000 );
+  }, 60000 );
 
 });
