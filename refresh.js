@@ -3,7 +3,7 @@ includeHTML();
 $(document).ready(function () {
 
   setInterval( function() {
-    $("#myDiv").load(location.href + " #myDiv");
+    $("#ads.checktatoo").load(location.href + " #ads.checktatoo");
   }, 9000 );
 
 });
